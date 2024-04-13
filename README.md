@@ -28,17 +28,17 @@ Tailor your learning experience to suit your individual needs and preferences. W
 
 Connect with fellow learners from around the world through our vibrant community forums. Share insights, ask questions, and collaborate on projects to enhance your learning experience.
 
-## Getting Started
+### Getting Started
 
 To get started with EdTube, simply create an account on our website and start exploring our library of courses. Whether you're a beginner or an advanced learner, there's something here for everyone.
 
-## Contributing
+### Contributing
 
 At EdTube, we believe in the power of collaboration and community-driven learning. If you're passionate about education and have expertise in a particular subject area, consider contributing to our platform as an instructor or content creator. Together, we can empower learners worldwide to unlock their full potential.
 
 ## Screenshots
 
-#### Idea 1: 
+### Idea 1: 
 https://www.canva.com/design/DAGCLHAHr1k/QOzX6ly_9Ok08BAPZeB8DQ/view?utm_content=DAGCLHAHr1k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 ### Idea 2:
